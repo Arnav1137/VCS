@@ -1,2 +1,4 @@
 # VCS
 VCS assignment
+   Learning Git and GitHub through this repository.
+   
